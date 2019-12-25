@@ -3,3 +3,5 @@
 
 
 打开index.html即可看到效果，结合marked.js和vue模版语法开发完成。
+
+<img src="./img/demo.jpg">
